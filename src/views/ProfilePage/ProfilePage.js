@@ -55,7 +55,6 @@ export default function ProfilePage(props) {
         }}
         {...rest}
       />
-      <Parallax small filter image={require("assets/img/profile-bg.jpg")} />
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div>
           <div className={classes.container}>
@@ -76,7 +75,8 @@ export default function ProfilePage(props) {
               <p>
                 Student of system's with high level in software development,
                   always having the intention to
-                  learn new things, I'm .{" "}
+                  learn new things, I'm also interested on project management
+                  and E-government.{" "}
               </p>
             </div>
             <GridContainer justify="center">
@@ -136,7 +136,6 @@ export default function ProfilePage(props) {
           </div>
         </div>
       </div>
-      <Footer />
     </div>
   );
 }

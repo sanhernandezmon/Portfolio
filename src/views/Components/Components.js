@@ -40,7 +40,7 @@ export default function Components(props) {
   return (
     <div>
       <Header
-        brand="Principal"
+        brand="Home"
         rightLinks={<HeaderLinks />}
         fixed
         color="transparent"
@@ -67,15 +67,7 @@ export default function Components(props) {
 
       <div className={classNames(classes.main, classes.mainRaised)}>
         <ProfilePage />
-        <GridItem md={12} className={classes.textCenter}>
-          <Link to={"/login-page"} className={classes.link}>
-            <Button color="primary" size="lg" simple>
-              View Login Page
-            </Button>
-          </Link>
-        </GridItem>
       </div>
-      <Footer />
     </div>
   );
 }

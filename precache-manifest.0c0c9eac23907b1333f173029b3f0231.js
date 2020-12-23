@@ -1,55 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05c46a290bde0e3565a5748fe698e872",
+    "revision": "e0d9809ecf53ffbca2d41296352e580e",
     "url": "/repository-name/index.html"
   },
   {
-    "revision": "40e822eb89b507e4c624",
+    "revision": "6a3b86d5ed5c996019e1",
     "url": "/repository-name/static/css/main.c5a3ee5c.chunk.css"
   },
   {
-    "revision": "4c110137c2d9735c67d3",
-    "url": "/repository-name/static/js/2.adf7291a.chunk.js"
+    "revision": "47b5c7a5e98cf47882fc",
+    "url": "/repository-name/static/js/2.8c7ff46b.chunk.js"
   },
   {
-    "revision": "8dbc9bd92b344a5deca62eeacc09fc2d",
-    "url": "/repository-name/static/js/2.adf7291a.chunk.js.LICENSE.txt"
+    "revision": "d09ac505fec0e9130a1d5b85fb3fa6dc",
+    "url": "/repository-name/static/js/2.8c7ff46b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40e822eb89b507e4c624",
-    "url": "/repository-name/static/js/main.baef403a.chunk.js"
+    "revision": "6a3b86d5ed5c996019e1",
+    "url": "/repository-name/static/js/main.48d8a780.chunk.js"
   },
   {
     "revision": "b1030b2df05e89497ddf",
     "url": "/repository-name/static/js/runtime-main.90085741.js"
   },
   {
-    "revision": "f1d71f777331fd7e3de116edf4ee3b67",
-    "url": "/repository-name/static/media/avatar.f1d71f77.jpg"
-  },
-  {
-    "revision": "e52419719dd0c4c8b172136f0b625008",
-    "url": "/repository-name/static/media/bg.e5241971.jpg"
-  },
-  {
-    "revision": "843781834b1db2908f08d921c6460c81",
-    "url": "/repository-name/static/media/bg2.84378183.jpg"
-  },
-  {
-    "revision": "e76de24b6d8ab5e920bb4d49241ad15f",
-    "url": "/repository-name/static/media/bg3.e76de24b.jpg"
-  },
-  {
     "revision": "2ebe756601f8b3be23b3c0e1357d13fe",
     "url": "/repository-name/static/media/bg4.2ebe7566.jpg"
-  },
-  {
-    "revision": "b08234a2b7e8e4fb2e3c4e713252021c",
-    "url": "/repository-name/static/media/bg7.b08234a2.jpg"
-  },
-  {
-    "revision": "56633ed3f62f39d71f571374a6409e65",
-    "url": "/repository-name/static/media/christian.56633ed3.jpg"
   },
   {
     "revision": "c058841b1dd64e5f79c6348b24cfb78d",
@@ -64,18 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/repository-name/static/media/cynthia-del-rio.9813593c.jpg"
   },
   {
-    "revision": "e0508cc923eb0b5e68ca6783c53d0f1d",
-    "url": "/repository-name/static/media/kendall.e0508cc9.jpg"
-  },
-  {
-    "revision": "df8fd3efcd662b64b44de07f351c838b",
-    "url": "/repository-name/static/media/landing-bg.df8fd3ef.jpg"
-  },
-  {
-    "revision": "08e18cb904f0f3c6dd9e3d4ed72e0eca",
-    "url": "/repository-name/static/media/landing.08e18cb9.jpg"
-  },
-  {
     "revision": "4575c40bfb8dec6713d2da51c4c4066e",
     "url": "/repository-name/static/media/mariya-georgieva.4575c40b.jpg"
   },
@@ -86,14 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4112cbc1477d9e149033c5df66087e16",
     "url": "/repository-name/static/media/olu-eletu.4112cbc1.jpg"
-  },
-  {
-    "revision": "090a5aabae505f67ee0981613d02ee05",
-    "url": "/repository-name/static/media/profile.090a5aab.jpg"
-  },
-  {
-    "revision": "cf8b686b294041d0925f4e745b1fabb9",
-    "url": "/repository-name/static/media/sign.cf8b686b.jpg"
   },
   {
     "revision": "ae0150c08dbcc95e4f50458e02e5bd5c",

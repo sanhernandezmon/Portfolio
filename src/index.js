@@ -7,12 +7,25 @@ import "assets/scss/material-kit-react.scss?v=1.9.0";
 
 // pages for this product
 import Components from "views/Components/Components.js";
+import Documents from "views/Documents/Documents.js"
+import CV from "views/Documents/CV.js"
 var hist = createBrowserHistory();
 
 ReactDOM.render(
   <Router history={hist}>
     <Switch>
-      <Route path="/" component={Components} />
+        <Route path="/Portfolio">
+            <Components />
+        </Route>
+
+        <Route path="/Docs">
+            <Documents />
+        </Route>
+
+        <Route path="/CV">
+            <CV />
+        </Route>
+
     </Switch>
   </Router>,
   document.getElementById("root")

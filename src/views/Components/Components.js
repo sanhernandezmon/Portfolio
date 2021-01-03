@@ -1,6 +1,5 @@
 import React from "react";
 // nodejs library that concatenates classes
-import classNames from "classnames";
 // react components for routing our app without refresh
 // @material-ui/core components
 import { makeStyles } from "@material-ui/core/styles";
@@ -25,6 +24,7 @@ export default function Components(props) {
     <div>
       <Header
         brand="Home"
+        to = "/Comp"
         rightLinks={<HeaderLinks />}
         fixed
         color="transparent"
@@ -41,17 +41,14 @@ export default function Components(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>Welcome to my portfolio</h1>
                 <h3 className={classes.subtitle}>
-                  This space itself shows my experience in web development
+                  This space itself shows some of my experience as web developer
                 </h3>
               </div>
             </GridItem>
           </GridContainer>
         </div>
       </Parallax>
-
-      <div className={classNames(classes.main, classes.mainRaised)}>
         <ProfilePage />
-      </div>
     </div>
   );
 }
